@@ -3,7 +3,7 @@
 
 ## Current Work
 
-- I’m currently pursuing my Master's in Computer Science
+I’m currently pursuing my Master's in Computer Science
 
 ## Tech Stack
 COMING SOON!!
