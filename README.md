@@ -8,6 +8,15 @@ I’m currently pursuing my Master's in Computer Science
 ## Tech Stack
 COMING SOON!!
 
+## Personal Projects
+
+The following repositories are various projects that I worked on earlier. Most of them are super simple: 
+
+COMING SOON!!
+
+## Certifications 
+COMING SOON!!
+
 ## Courses
 
 The following repositories represent my learning journey in various fields:
@@ -42,12 +51,13 @@ COMING SOON!!
 ### Web Development 
 COMING SOON!!
 
+### DevOps
+COMING SOON
 
-## Personal Projects
+### Cloud Technologies
+COMING SOON
 
-The following repositories are various projects that I worked on earlier. Most of them are super simple: 
 
-COMING SOON!!
 
 
 
