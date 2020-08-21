@@ -1,16 +1,58 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**santhosh1sai/santhosh1sai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Current Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently pursuing my Master's in Computer Science
+
+## Tech Stack
+COMING SOON!!
+
+## Courses
+
+The following repositories represent my learning journey in various fields:
+
+### Machine Learning Courses
+COMING SOON!!
+
+
+### Deep Learning Courses
+COMING SOON!!
+
+
+### Natural Language Processing (NLP) Courses
+COMING SOON!!
+
+
+### Mathematics
+COMING SOON!!
+
+### Data Science
+COMING SOON!!
+
+### Big Data
+COMING SOON!!
+
+### Data Analytics
+COMING SOON!!
+
+### Data Visualizations
+COMING SOON!!
+
+### Web Development 
+COMING SOON!!
+
+
+## Personal Projects
+
+The following repositories are various projects that I worked on earlier. Most of them are super simple: 
+
+COMING SOON!!
+
+
+
+## Incomplete Projects
+
+The following are projects on which I worked earlier, and I couldn't find the time to complete:
+COMING SOON!!
+
