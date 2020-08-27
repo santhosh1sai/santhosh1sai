@@ -21,6 +21,10 @@ COMING SOON!!
 
 The following repositories represent my learning journey in various fields:
 
+### Data Engineering Courses
+COMING SOON!!
+
+
 ### Machine Learning Courses
 COMING SOON!!
 
