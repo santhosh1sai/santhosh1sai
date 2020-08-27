@@ -1,5 +1,6 @@
 # Hi there 👋
-
+I am a Data Professional or Engineer who prepares the Big Data infrastructure to be analyzed by Data Scientists. 
+I design, build, integrate data from various resources which are provided, and write complex queries on that to make sure it is easily accessible, works smoothly, optimizing the performance of any company’s or product's big data ecosystem is my goal!. 
 
 ## Current Work
 
